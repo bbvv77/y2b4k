@@ -1,7 +1,7 @@
 <?php
-define('APIKEY', 'AIzaSyBpg1qOSts8Vh2zDBRYZO3aZVd-uaCPH90');
+define('APIKEY', 'AIzaSyBYhqEYZhz1Y03-aBFHuEOEIQdRwgtscSQ');
 define('TITLENAME', 'x');
-define('SITE_NAME', 'z');
+define('SITE_NAME', 'x');
 define('NAME', 'mvc');
 define('PASSWORD', '9527aA/*-');
 define('LOGINHTML', '<!DOCTYPE html>
