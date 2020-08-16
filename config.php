@@ -1,7 +1,7 @@
 <?php
 define('APIKEY', 'AIzaSyBpg1qOSts8Vh2zDBRYZO3aZVd-uaCPH90');
-define('TITLENAME', 'YouProxy');
-define('SITE_NAME', 'YouProxy');
+define('TITLENAME', 'x');
+define('SITE_NAME', 'z');
 define('NAME', 'mvc');
 define('PASSWORD', '9527aA/*-');
 define('LOGINHTML', '<!DOCTYPE html>
