@@ -1,5 +1,5 @@
 <?php
-define('APIKEY', 'AIzaSyBYhqEYZhz1Y03-aBFHuEOEIQdRwgtscSQ');
+define('APIKEY', 'AIzaSyBQSmijuR6Jb40_9V8zlgpKQWFrMJsw534');
 define('TITLENAME', 'x');
 define('SITE_NAME', 'x');
 define('NAME', 'mvc');
